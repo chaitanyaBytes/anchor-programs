@@ -3,11 +3,9 @@
 **Secure Token Exchange System with PDA-Managed Vaults**  
 *An Anchor-based implementation of cross-chain-like token swaps on Solana*
 
-
 ## Overview 📜
 
 A decentralized escrow system enabling atomic swaps between SPL tokens using program-derived addresses (PDAs) for secure asset custody. Implements maker-taker pattern with automated settlement and refund capabilities.
-
 
 ## Key Features 🛡️
 
@@ -167,7 +165,6 @@ await program.methods.take()
    - `has_one` constraints for mint consistency
    - Close-on-completion patterns
    - Associated token account verification
-
 
 ## License 📄
 
