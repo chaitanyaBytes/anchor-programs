@@ -1,0 +1,9 @@
+[submodule "anchor-staking"]
+	path = anchor-staking
+	url = https://github.com/chaitanyaBytes/anchor-staking.git
+[submodule "anchor-marketplace"]
+	path = anchor-marketplace
+	url = https://github.com/chaitanyaBytes/anchor-marketplace.git
+[submodule "quad-funding-contract"]
+	path = quad-funding-contract
+	url = https://github.com/chaitanyaBytes/quad-funding-contract.git
